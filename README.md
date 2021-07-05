@@ -1,2 +1,2 @@
-# Tindog
-Tindog website for setting up single dogs
+# tindog
+tindog website for setting up single dogs
